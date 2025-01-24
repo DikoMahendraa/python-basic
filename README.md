@@ -1,14 +1,14 @@
-Take it Notes:
+# Take it Notes:
 
 Python is a case-sensitive language, so be mindful of capitalization.
 Don't forget to enclose the text welcome inside quotation marks.
 
-Common Mistakes (I)
+## Common Mistakes (I)
 
 1. Spelling Error
    annual_income = 95000
 
-# error because of a spelling mistake
+error because of a spelling mistake
 
 print(annual_icome)
 
@@ -34,7 +34,7 @@ Learn How to:
 4. create a function
 5. create a class with inheritance
 
-What's next ?
+## What's next ?
 
 1. Web Frameworks
    Learn a Python web framework to build your REST API. The most popular ones are:
@@ -126,13 +126,10 @@ Libraries:
 
 Popular deployment platforms:
 
-Heroku.
-
-AWS.
-
-Google Cloud.
-
-Docker (for containerization).
+- Heroku.
+- AWS.
+- Google Cloud.
+- Docker (for containerization).
 
 13. Versioning
     Implement versioning in your API to manage changes over time.
@@ -140,30 +137,18 @@ Docker (for containerization).
 14. Logging
     Add logging to your API to track errors and monitor activity.
 
-Summary of What to Learn:
+## Summary of What to Learn:
 
 - Web frameworks (Flask, FastAPI, Django).
-
 - HTTP methods and status codes.
-
 - Routing and request/response handling.
-
 - Data validation (Pydantic, Marshmallow).
-
 - Database integration (SQLAlchemy, Django ORM).
-
 - Error handling.
-
 - Authentication and authorization (JWT, OAuth2).
-
 - Testing (pytest, unittest).
-
 - API documentation (Swagger/OpenAPI).
-
 - Environment variables (python-decouple, dotenv).
-
 - Deployment (Heroku, AWS, Docker).
-
 - Versioning.
-
 - Logging.
